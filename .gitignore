@@ -1,0 +1,3 @@
+out.wast
+*.wasm
+*.err
